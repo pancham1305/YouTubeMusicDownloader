@@ -1,4 +1,5 @@
 ## Requirements
+- Run the following command in the terminal
 ```
 pip install -r requirements.txt
 ```
