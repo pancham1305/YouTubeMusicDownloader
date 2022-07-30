@@ -7,3 +7,4 @@ pip install -r requirements.txt
 ```
 python3 YouTubeMusicDownloader.py
 ```
+## For  Windows You Can Directly Run the `YouTubeMusicDownloader.exe ` in the terminal
